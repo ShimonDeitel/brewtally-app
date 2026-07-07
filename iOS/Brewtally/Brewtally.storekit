@@ -1,0 +1,40 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "group_brewtally",
+      "localizations": [],
+      "name": "Brewtally Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "com.shimondeitel.coffeelog.pro.monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited brew history, ratio calculator presets, and bean inventory tracking",
+              "displayName": "Brewtally Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.coffeelog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Brewtally Pro Monthly",
+          "subscriptionGroupID": "group_brewtally",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
