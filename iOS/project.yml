@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: BrewtallyTests
-      - path: Brewtally.storekit
     dependencies:
       - target: Brewtally
     settings:
